@@ -1,0 +1,14 @@
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\bin\Debug\LaporanLabaRugi.exe
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\bin\Debug\LaporanLabaRugi.pdb
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\bin\Debug\LaporanLabaRugi.xml
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\WindowsApplication1.formHome.resources
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\WindowsApplication1.loginForm.resources
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\LaporanLabaRugi.vbproj.GenerateResource.Cache
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\LaporanLabaRugi.exe
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\LaporanLabaRugi.xml
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\LaporanLabaRugi.pdb
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\WindowsApplication1.productForm.resources
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\WindowsApplication1.penjualanForm.resources
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\WindowsApplication1.pelangganForm.resources
+C:\Users\amard\documents\visual studio 2010\Projects\LaporanLabaRugi\LaporanLabaRugi\obj\x86\Debug\WindowsApplication1.labaForm.resources
